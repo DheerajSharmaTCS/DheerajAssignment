@@ -2,9 +2,10 @@
 
 /***Description: selenium testing code***
 
--Created java code to generate random numbers and stored it in an array.
--Then created 2 test cases Test1 and Test2 for verifying presence of random generated numbers 
+-Tools/plugin used: Eclipse, TestNG, maven.
+-Created 2 test cases Test1 and Test2 for verifying presence of random generated numbers 
  and other to check sorted list respectively.
+-Then, created java code to generate random numbers and stored it in an array.
 -Using TestNG annotations to created test cases and report generation in test output folder.
 -Everything is inside src/test.SortTestingProgram class.
 -Github repository: https://github.com/DheerajSharmaTCS/DheerajAssignment.
