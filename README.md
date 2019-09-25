@@ -11,8 +11,13 @@
 -Github repository: https://github.com/DheerajSharmaTCS/DheerajAssignment.
 
 */
+/*To run code follow below steps*/
+1. Import Project in eclipse IDE.
+2. Right click on project and un as TestNG project.
+3. Result can be seen in test-output folder created after refreshing the project.
+*/
 
-
+/*Sample Code*/
 package test;
 
 import java.util.ArrayList;
